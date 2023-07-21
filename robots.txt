@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Ngoctruong12.github.io/Ngoctruong/sitemap.xml
